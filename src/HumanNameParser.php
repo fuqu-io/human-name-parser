@@ -1,4 +1,5 @@
 <?php
+namespace ChrisUllyott\HumanNameParser;
 
 /**
  * Parse a human name into parts.
