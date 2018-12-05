@@ -1,7 +1,7 @@
 # human-name-parser
-
-[![Latest Stable Version](https://poser.pugx.org/chrisullyott/human-name-parser/v/stable)](https://packagist.org/packages/chrisullyott/human-name-parser)
-[![Monthly Downloads](https://poser.pugx.org/chrisullyott/human-name-parser/d/monthly)](https://packagist.org/packages/chrisullyott/human-name-parser)
+Tweaked a little.  See original.
+0. namespaced psr4
+0. parser now supports custom key output ->parse(['first' => 'first_name' ...])
 
 A human name parser written in PHP.
 
